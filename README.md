@@ -5,7 +5,7 @@
 <h1 align="center">𝓜𝓪𝓱𝓸𝓷𝓷𝓮 𝓐𝓴𝔂𝓮𝓶𝓹𝓸𝓷</h1>
 
 <p align="center">
-  👨‍💻 Multipurpose Dev • 🎨 Design Enthusiast • 🔧 Tinkerer • 🌍 Building digital spaces
+  👨‍💻 Multipurpose Dev • 💻 Tech Support • 🔧 Tinkerer • 🌍 Building digital spaces
 </p>
 
 <p align="center">
